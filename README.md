@@ -1,2 +1,2 @@
-# portable-us-colemak
-A portable US Colemak Keyboard Layout for Windows
+# us-colemak
+A US Colemak Keyboard Layout for Windows
